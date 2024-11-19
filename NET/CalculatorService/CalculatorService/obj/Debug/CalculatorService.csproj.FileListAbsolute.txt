@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Distribuidas\NET\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Distribuidas\NET\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Distribuidas\NET\CalculatorService\CalculatorService\bin\Debug\CalculatorService.exe.config
+C:\Users\User\Desktop\Distribuidas\NET\CalculatorService\CalculatorService\bin\Debug\CalculatorService.exe
+C:\Users\User\Desktop\Distribuidas\NET\CalculatorService\CalculatorService\bin\Debug\CalculatorService.pdb
+C:\Users\User\Desktop\Distribuidas\NET\CalculatorService\CalculatorService\obj\Debug\CalculatorService.exe
+C:\Users\User\Desktop\Distribuidas\NET\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb
